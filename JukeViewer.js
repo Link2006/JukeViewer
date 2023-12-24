@@ -1,7 +1,6 @@
 //Link2006's SnitchViewer / JaViewer / JukeViewer 
 //Version 1.0
 //Released publicly 12/24/2023
-//CC0-1.0 License
 //
 //Happy Holidays!
 
