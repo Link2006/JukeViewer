@@ -9,7 +9,7 @@ You should be using [JSMacros](https://www.curseforge.com/minecraft/mc-mods/jsma
 
 Copy the JukeViewer.js file to `.minecraft/config/jsMacros/Macros`
 
-Once that is installed, open the JSMacros button and add the script to the "RecvMessage" event and as a Key event as well.
+Once that is installed, open the JSMacros menu and add the script to the "RecvMessage" event and as a Key event as well.
 
 ![Key Config](JukeViewer_2.png)
 ![Event Config](JukeViewer_3.png)
